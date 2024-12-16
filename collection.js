@@ -15,7 +15,6 @@ search.addEventListener("keyup",function(){
         }
     }
 })
-
 function myfunction() {
     var element = document.body;
     element.classList.toggle("dark-mode");
